@@ -1,0 +1,6 @@
+{
+  "name": "Nexus EM - Domain-Agnostic MES",
+  "description": "Flexible, dynamic-schema Manufacturing Execution System (MES) adaptable to any production facility with custom workflow pipelines and JSONB-style attributes.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
